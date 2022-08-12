@@ -1,0 +1,450 @@
+Analysing for n = 1000
+For Insertion Sort - Simple: Time taken is = 2.000000
+For Insertion Sort - Updated: Time taken is = 0.000000
+For Selection Sort: Time taken is = 0.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 6.000000
+For Bubble: Time taken is = 3.000000
+
+Analysing for n = 2000
+For Insertion Sort - Simple: Time taken is = 0.000000
+For Insertion Sort - Updated: Time taken is = 0.000000
+For Selection Sort: Time taken is = 17.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 0.000000
+For Bubble: Time taken is = 0.000000
+
+Analysing for n = 3000
+For Insertion Sort - Simple: Time taken is = 16.000000
+For Insertion Sort - Updated: Time taken is = 18.000000
+For Selection Sort: Time taken is = 24.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 15.000000
+For Bubble: Time taken is = 17.000000
+
+Analysing for n = 4000
+For Insertion Sort - Simple: Time taken is = 32.000000
+For Insertion Sort - Updated: Time taken is = 16.000000
+For Selection Sort: Time taken is = 48.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 15.000000
+For Bubble: Time taken is = 32.000000
+For Bubble: Time taken is = 15.000000
+
+Analysing for n = 5000
+For Insertion Sort - Simple: Time taken is = 33.000000
+For Insertion Sort - Updated: Time taken is = 15.000000
+For Selection Sort: Time taken is = 66.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 17.000000
+For Bubble: Time taken is = 32.000000
+For Bubble: Time taken is = 31.000000
+
+Analysing for n = 6000
+For Insertion Sort - Simple: Time taken is = 66.000000
+For Insertion Sort - Updated: Time taken is = 62.000000
+For Selection Sort: Time taken is = 94.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 47.000000
+For Bubble: Time taken is = 86.000000
+
+Analysing for n = 7000
+For Insertion Sort - Simple: Time taken is = 47.000000
+For Insertion Sort - Updated: Time taken is = 48.000000
+For Selection Sort: Time taken is = 78.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 101.000000
+For Bubble: Time taken is = 104.000000
+
+Analysing for n = 8000
+For Insertion Sort - Simple: Time taken is = 95.000000
+For Insertion Sort - Updated: Time taken is = 80.000000
+For Selection Sort: Time taken is = 94.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 129.000000
+For Bubble: Time taken is = 94.000000
+
+Analysing for n = 9000
+For Insertion Sort - Simple: Time taken is = 109.000000
+For Insertion Sort - Updated: Time taken is = 79.000000
+For Selection Sort: Time taken is = 109.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 15.000000
+For Bubble: Time taken is = 136.000000
+For Bubble: Time taken is = 125.000000
+
+Analysing for n = 10000
+For Insertion Sort - Simple: Time taken is = 128.000000
+For Insertion Sort - Updated: Time taken is = 94.000000
+For Selection Sort: Time taken is = 141.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 157.000000
+For Bubble: Time taken is = 173.000000
+
+Analysing for n = 11000
+For Insertion Sort - Simple: Time taken is = 140.000000
+For Insertion Sort - Updated: Time taken is = 111.000000
+For Selection Sort: Time taken is = 188.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 203.000000
+For Bubble: Time taken is = 203.000000
+
+Analysing for n = 12000
+For Insertion Sort - Simple: Time taken is = 172.000000
+For Insertion Sort - Updated: Time taken is = 125.000000
+For Selection Sort: Time taken is = 237.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 250.000000
+For Bubble: Time taken is = 250.000000
+
+Analysing for n = 13000
+For Insertion Sort - Simple: Time taken is = 197.000000
+For Insertion Sort - Updated: Time taken is = 156.000000
+For Selection Sort: Time taken is = 281.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 297.000000
+For Bubble: Time taken is = 313.000000
+
+Analysing for n = 14000
+For Insertion Sort - Simple: Time taken is = 237.000000
+For Insertion Sort - Updated: Time taken is = 172.000000
+For Selection Sort: Time taken is = 328.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 359.000000
+For Bubble: Time taken is = 375.000000
+
+Analysing for n = 15000
+For Insertion Sort - Simple: Time taken is = 250.000000
+For Insertion Sort - Updated: Time taken is = 189.000000
+For Selection Sort: Time taken is = 393.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 423.000000
+For Bubble: Time taken is = 437.000000
+
+Analysing for n = 16000
+For Insertion Sort - Simple: Time taken is = 282.000000
+For Insertion Sort - Updated: Time taken is = 218.000000
+For Selection Sort: Time taken is = 455.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 488.000000
+For Bubble: Time taken is = 516.000000
+
+Analysing for n = 17000
+For Insertion Sort - Simple: Time taken is = 297.000000
+For Insertion Sort - Updated: Time taken is = 250.000000
+For Selection Sort: Time taken is = 536.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 578.000000
+For Bubble: Time taken is = 595.000000
+
+Analysing for n = 18000
+For Insertion Sort - Simple: Time taken is = 345.000000
+For Insertion Sort - Updated: Time taken is = 281.000000
+For Selection Sort: Time taken is = 612.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 656.000000
+For Bubble: Time taken is = 672.000000
+
+Analysing for n = 19000
+For Insertion Sort - Simple: Time taken is = 390.000000
+For Insertion Sort - Updated: Time taken is = 296.000000
+For Selection Sort: Time taken is = 688.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 15.000000
+For Bubble: Time taken is = 721.000000
+For Bubble: Time taken is = 768.000000
+
+Analysing for n = 20000
+For Insertion Sort - Simple: Time taken is = 422.000000
+For Insertion Sort - Updated: Time taken is = 328.000000
+For Selection Sort: Time taken is = 843.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 845.000000
+For Bubble: Time taken is = 845.000000
+
+Analysing for n = 21000
+For Insertion Sort - Simple: Time taken is = 488.000000
+For Insertion Sort - Updated: Time taken is = 376.000000
+For Selection Sort: Time taken is = 922.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 987.000000
+For Bubble: Time taken is = 954.000000
+
+Analysing for n = 22000
+For Insertion Sort - Simple: Time taken is = 520.000000
+For Insertion Sort - Updated: Time taken is = 422.000000
+For Selection Sort: Time taken is = 1031.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 1128.000000
+For Bubble: Time taken is = 1086.000000
+
+Analysing for n = 23000
+For Insertion Sort - Simple: Time taken is = 655.000000
+For Insertion Sort - Updated: Time taken is = 491.000000
+For Selection Sort: Time taken is = 1171.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 1203.000000
+For Bubble: Time taken is = 1189.000000
+
+Analysing for n = 24000
+For Insertion Sort - Simple: Time taken is = 610.000000
+For Insertion Sort - Updated: Time taken is = 500.000000
+For Selection Sort: Time taken is = 1284.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 1328.000000
+For Bubble: Time taken is = 1328.000000
+
+Analysing for n = 25000
+For Insertion Sort - Simple: Time taken is = 656.000000
+For Insertion Sort - Updated: Time taken is = 547.000000
+For Selection Sort: Time taken is = 1361.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 1469.000000
+For Bubble: Time taken is = 1453.000000
+
+Analysing for n = 26000
+For Insertion Sort - Simple: Time taken is = 719.000000
+For Insertion Sort - Updated: Time taken is = 578.000000
+For Selection Sort: Time taken is = 1500.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 1609.000000
+For Bubble: Time taken is = 1594.000000
+
+Analysing for n = 27000
+For Insertion Sort - Simple: Time taken is = 781.000000
+For Insertion Sort - Updated: Time taken is = 625.000000
+For Selection Sort: Time taken is = 1625.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 1718.000000
+For Bubble: Time taken is = 1721.000000
+
+Analysing for n = 28000
+For Insertion Sort - Simple: Time taken is = 845.000000
+For Insertion Sort - Updated: Time taken is = 689.000000
+For Selection Sort: Time taken is = 1784.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 1867.000000
+For Bubble: Time taken is = 1828.000000
+
+Analysing for n = 29000
+For Insertion Sort - Simple: Time taken is = 938.000000
+For Insertion Sort - Updated: Time taken is = 719.000000
+For Selection Sort: Time taken is = 1907.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 2015.000000
+For Bubble: Time taken is = 2032.000000
+
+Analysing for n = 30000
+For Insertion Sort - Simple: Time taken is = 990.000000
+For Insertion Sort - Updated: Time taken is = 781.000000
+For Selection Sort: Time taken is = 2065.000000
+For Merge Sort: Time taken is = 15.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 2157.000000
+For Bubble: Time taken is = 2140.000000
+
+Analysing for n = 31000
+For Insertion Sort - Simple: Time taken is = 1048.000000
+For Insertion Sort - Updated: Time taken is = 861.000000
+For Selection Sort: Time taken is = 2266.000000
+For Merge Sort: Time taken is = 15.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 2384.000000
+For Bubble: Time taken is = 2360.000000
+
+Analysing for n = 32000
+For Insertion Sort - Simple: Time taken is = 1150.000000
+For Insertion Sort - Updated: Time taken is = 877.000000
+For Selection Sort: Time taken is = 2343.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 2486.000000
+For Bubble: Time taken is = 2458.000000
+
+Analysing for n = 33000
+For Insertion Sort - Simple: Time taken is = 1188.000000
+For Insertion Sort - Updated: Time taken is = 923.000000
+For Selection Sort: Time taken is = 2547.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 2673.000000
+For Bubble: Time taken is = 2647.000000
+
+Analysing for n = 34000
+For Insertion Sort - Simple: Time taken is = 1263.000000
+For Insertion Sort - Updated: Time taken is = 1000.000000
+For Selection Sort: Time taken is = 2642.000000
+For Merge Sort: Time taken is = 15.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 2840.000000
+For Bubble: Time taken is = 2808.000000
+
+Analysing for n = 35000
+For Insertion Sort - Simple: Time taken is = 1354.000000
+For Insertion Sort - Updated: Time taken is = 1032.000000
+For Selection Sort: Time taken is = 2859.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 3005.000000
+For Bubble: Time taken is = 3000.000000
+
+Analysing for n = 36000
+For Insertion Sort - Simple: Time taken is = 1406.000000
+For Insertion Sort - Updated: Time taken is = 1125.000000
+For Selection Sort: Time taken is = 3095.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 3282.000000
+For Bubble: Time taken is = 3237.000000
+
+Analysing for n = 37000
+For Insertion Sort - Simple: Time taken is = 1521.000000
+For Insertion Sort - Updated: Time taken is = 1203.000000
+For Selection Sort: Time taken is = 3205.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 3491.000000
+For Bubble: Time taken is = 3442.000000
+
+Analysing for n = 38000
+For Insertion Sort - Simple: Time taken is = 1564.000000
+For Insertion Sort - Updated: Time taken is = 1251.000000
+For Selection Sort: Time taken is = 3391.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 3676.000000
+For Bubble: Time taken is = 3594.000000
+
+Analysing for n = 39000
+For Insertion Sort - Simple: Time taken is = 1656.000000
+For Insertion Sort - Updated: Time taken is = 1328.000000
+For Selection Sort: Time taken is = 3610.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 3764.000000
+For Bubble: Time taken is = 3782.000000
+
+Analysing for n = 40000
+For Insertion Sort - Simple: Time taken is = 1750.000000
+For Insertion Sort - Updated: Time taken is = 1360.000000
+For Selection Sort: Time taken is = 3766.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 15.000000
+For Bubble: Time taken is = 4031.000000
+For Bubble: Time taken is = 4063.000000
+
+Analysing for n = 41000
+For Insertion Sort - Simple: Time taken is = 1849.000000
+For Insertion Sort - Updated: Time taken is = 1469.000000
+For Selection Sort: Time taken is = 4051.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 4302.000000
+For Bubble: Time taken is = 4204.000000
+
+Analysing for n = 42000
+For Insertion Sort - Simple: Time taken is = 1907.000000
+For Insertion Sort - Updated: Time taken is = 1540.000000
+For Selection Sort: Time taken is = 4219.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 4469.000000
+For Bubble: Time taken is = 4449.000000
+
+Analysing for n = 43000
+For Insertion Sort - Simple: Time taken is = 2002.000000
+For Insertion Sort - Updated: Time taken is = 1578.000000
+For Selection Sort: Time taken is = 4399.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 4690.000000
+For Bubble: Time taken is = 4661.000000
+
+Analysing for n = 44000
+For Insertion Sort - Simple: Time taken is = 2109.000000
+For Insertion Sort - Updated: Time taken is = 1656.000000
+For Selection Sort: Time taken is = 4614.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 4957.000000
+For Bubble: Time taken is = 4892.000000
+
+Analysing for n = 45000
+For Insertion Sort - Simple: Time taken is = 2269.000000
+For Insertion Sort - Updated: Time taken is = 1769.000000
+For Selection Sort: Time taken is = 4954.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 5191.000000
+For Bubble: Time taken is = 5219.000000
+
+Analysing for n = 46000
+For Insertion Sort - Simple: Time taken is = 2282.000000
+For Insertion Sort - Updated: Time taken is = 1860.000000
+For Selection Sort: Time taken is = 5143.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 5482.000000
+For Bubble: Time taken is = 5360.000000
+
+Analysing for n = 47000
+For Insertion Sort - Simple: Time taken is = 2391.000000
+For Insertion Sort - Updated: Time taken is = 1953.000000
+For Selection Sort: Time taken is = 5330.000000
+For Merge Sort: Time taken is = 16.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 5702.000000
+For Bubble: Time taken is = 5630.000000
+
+Analysing for n = 48000
+For Insertion Sort - Simple: Time taken is = 2527.000000
+For Insertion Sort - Updated: Time taken is = 1978.000000
+For Selection Sort: Time taken is = 5547.000000
+For Merge Sort: Time taken is = 15.000000
+For Quick Sort: Time taken is = 0.000000
+For Bubble: Time taken is = 5939.000000
+For Bubble: Time taken is = 5941.000000
+
+Analysing for n = 49000
+For Insertion Sort - Simple: Time taken is = 2580.000000
+For Insertion Sort - Updated: Time taken is = 2064.000000
+For Selection Sort: Time taken is = 5753.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 6156.000000
+For Bubble: Time taken is = 6126.000000
+
+Analysing for n = 50000
+For Insertion Sort - Simple: Time taken is = 2750.000000
+For Insertion Sort - Updated: Time taken is = 2171.000000
+For Selection Sort: Time taken is = 6001.000000
+For Merge Sort: Time taken is = 0.000000
+For Quick Sort: Time taken is = 16.000000
+For Bubble: Time taken is = 6534.000000
+For Bubble: Time taken is = 6512.000000
+
